@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+h2 {
+    font-size: 24px;
+    color: blanchedalmond;
+    text-align: center;
+    background-image: url("../images/1.jpg");
+    background-size: 100%;
+    background-position: bottom;
+    padding: 15%;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0%;
+  }
+
+  .container {
+display: flex;
+justify-content: center;
+align-items: flex-start;
+margin-bottom: 2%;
+  }
+
+  .info {
+    padding-right: 3%;
+  }
+
+  .fruits {
+    padding-right: 3%;
+  }
+
+img{
+  max-width: 40%;
+}
+
+  .header {
+    text-align: center;
+  }

@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #794201;
+}
+
+#map {
+  width: 40vw;
+  height: 50vh; 
+}
